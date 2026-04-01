@@ -1,5 +1,5 @@
 # Dolphin Coder
-## Dolphin Coder is a modified fork of Claude Code and not associated with it beyond utilizing its CLI/SDK for evolution and mutation though user based API tokens, meaning, you need a claude code account to utilize the claude code CLI/SDK command T-UI! I/E: Sonnet is a great bullshiter when it comes to coding but with Dolphin Coder he will stop Hallucianting and outperfom Haiku if we are corect.
+## Dolphin Coder is a modified fork of Claude Code and not associated with it beyond utilizing its CLI/SDK for evolution and mutation though user based API tokens, meaning, you need a claude code account to utilize the claude code CLI/SDK command T-UI! I/E: Sonnet is a great bullshitter when it comes to coding but with Dolphin Coder he will stop writing bullshit code and outperfom Haiku if we are corect.
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 

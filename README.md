@@ -1,4 +1,4 @@
-# Dolphin Coder is a modified fork of Claude Code and not associated with it at all beyond utilizing its SDK for evolution and mutation!
+# Dolphin Coder is a modified fork of Claude Code and not associated with it at all beyond utilizing its CLI/SDK for evolution and mutation!
 
 ![](https://img.shields.io/badge/Node.js-18%2B-brightgreen?style=flat-square) [![npm]](https://www.npmjs.com/package/@anthropic-ai/claude-code)
 
